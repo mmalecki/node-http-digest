@@ -13,7 +13,6 @@
   { "mail" : "emil@koffietijd.net"
   , "web" : "http://github.com/thedjinn/node-http-digest/issues"
   }
-, "os" : [ "linux", "darwin", "freebsd" ]
 , "directories" : { "lib" : "./lib/" }
 , "main" : "./lib/http-digest"
 , "engines" : { "node" : ">=0.1.100" }
